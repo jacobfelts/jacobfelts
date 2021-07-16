@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @jacobfelts
+- 👀 I’m interested in ...
+Coding
+- 🌱 I’m currently learning ...
+Scratch
+- 💞️ I’m looking to collaborate on ...
+Business Projects
+- 📫 How to reach me ...
+jacob.h.felts@gmail.com
+<!---
+jacobfelts/jacobfelts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
